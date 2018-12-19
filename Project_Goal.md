@@ -37,3 +37,8 @@ We will train a model based on XGBoost and one on Linear Learner and evaluate ef
 Based on the output of that initial training, we will attempt to identify a set of actors more likely to be involved in fraudulent transactions.  As a stretch goal, we will build a(n) additional model(s) including a flag on those actors and evaluate whether that flagging increases the model's effectiveness in identifying anomalous transactions.
 
 ## Unsupervised - Random Cut Forest
+
+
+# End Goal
+
+Final system should be able to take in details of a single transaction and produce a score indicating the likelihood of fraud.
