@@ -26,7 +26,9 @@ We are using a 182MB dataset from Kaggle.com with over 6 million records and 11 
 Dataset can be found here: https://www.kaggle.com/ntnu-testimon/paysim1
 
 # Modeling Strategy
-We are attempting two modeling strategies: one supervised using XGBoost, one unsupervised using SageMakers's Random Cut Forest
+We are attempting two modeling strategies: one supervised using XGBoost, one unsupervised using SageMakers's Random Cut Forest.
+
+It may be possible to identify networks of repeat offenders.
 
 ## Supervised - XGBoost
 
