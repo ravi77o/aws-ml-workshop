@@ -38,6 +38,7 @@ Based on the output of that initial training, we will attempt to identify a set 
 
 ## Unsupervised - Random Cut Forest
 
+We will use Random Cut Forest for the unsupervised learning model. The column that marks if fraud or not will be removed from the training data set. We will use hyperparameter tuning to get the best results by comparing it to our test data set that has if it is fraud or not.
 
 # End Goal
 
